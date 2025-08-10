@@ -1,0 +1,22 @@
+{
+  "name": "token-scene-jump",
+  "title": "Token Scene Jump",
+  "description": "Teletrasporta i giocatori cliccando su un token 'Porta' con icona stivale. Include blocco/sblocco DM.",
+  "version": "1.0.0",
+  "compatibleCoreVersion": "13",
+  "author": "alexzenare",
+  "esmodules": ["scripts/jump.js"],
+  "styles": [],
+  "packs": [
+    {
+      "name": "tokens",
+      "label": "Token Scene Jump - Tokens",
+      "path": "packs/tokens.db",
+      "type": "Actor",
+      "system": "dnd5e"
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/alexzenare/token-scene-jump/main/module.json",
+  "download": "https://github.com/alexzenare/token-scene-jump/archive/refs/heads/main.zip",
+  "license": "MIT"
+}
