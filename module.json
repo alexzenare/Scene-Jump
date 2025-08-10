@@ -1,11 +1,12 @@
 {
   "id": "token-scene-jump",
   "name": "Token Scene Jump",
-  "description": "Teletrasporta i giocatori cliccando su un token 'Porta' con icona stivale. Include blocco/sblocco DM.",
+  "description": "Teletrasporta i giocatori cliccando su un token 'Porta' con icona stivale. Include...",
   "version": "1.0.0",
+  "minimumCoreVersion": "13",
   "compatibleCoreVersion": "13",
   "author": "alexzenare",
-  "esmodules": ["scripts/jump.js"],
+  "scripts": ["scripts/jump.js"],
   "styles": [],
   "packs": [
     {
