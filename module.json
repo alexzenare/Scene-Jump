@@ -1,5 +1,5 @@
 {
-  "name": "token-scene-jump",
+  "id": "token-scene-jump",
   "title": "Token Scene Jump",
   "description": "Teletrasporta i giocatori cliccando su un token 'Porta' con icona stivale. Include blocco/sblocco DM.",
   "version": "1.0.0",
